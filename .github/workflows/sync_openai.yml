@@ -1,0 +1,44 @@
+name: Sincronizza Vector Store OpenAI
+
+on:
+  push:
+    paths:
+      - "**.md"
+      - ".github/scripts/sync_vector_store.py"
+      - ".github/workflows/sync_openai.yml"
+    branches:
+      - main
+
+  workflow_dispatch:
+
+jobs:
+  sync-vector-store:
+    runs-on: ubuntu-latest
+
+    steps:
+      # 1. Checkout
+      - name: Checkout del codice
+        uses: actions/checkout@v4
+
+      # 2. Setup Python
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: "3.10"
+
+      # 3. Installa dipendenze (MODIFICATO)
+      - name: Installa dipendenze
+        run: |
+          python -m pip install --upgrade pip
+          # Forziamo l'aggiornamento a una versione >= 1.2.0
+          pip install --upgrade "openai>=1.2.0"
+          # Stampiamo la versione installata per sicurezza
+          echo "Versione di OpenAI installata:"
+          pip show openai
+
+      # 4. Esegue lo script
+      - name: Esegui Sincronizzazione
+        run: python .github/scripts/sync_vector_store.py
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+          VECTOR_STORE_ID: ${{ secrets.VECTOR_STORE_ID }}
