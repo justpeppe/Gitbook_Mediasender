@@ -12,12 +12,11 @@
 
 ## APP MOBILE
 
-* [App Mediasender](app-mobile/app-mediasender.md)
-* [Funzionalità App Mobile Mediasender](app-mobile/funzionalita-app-mobile-mediasender.md)
+* [App Mobile](app-mobile/app-mobile.md)
 
 ## PIANI/ABBONAMENTI
 
-* [Piani e abbonamenti](piani-abbonamenti/piani-e-abbonamenti.md)
+* [Piani e abbonamenti](piani-abbonamenti/costi.md)
 
 ## FAQ / DOMANDE FREQUENTI
 
