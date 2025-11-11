@@ -7,7 +7,6 @@
 * [Riguardo Mediasender](introduzione/riguardo-mediasender.md)
 * [Perchè scegliere Mediasender?](introduzione/perche-scegliere-mediasender.md)
 * [Requisiti di sistema](introduzione/requisiti-di-sistema.md)
-* [Caratteristiche](introduzione/caratteristiche.md)
 * [Cos'è una Radio Date?](introduzione/cose-una-radio-date.md)
 
 ## APP MOBILE
