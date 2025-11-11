@@ -17,7 +17,7 @@
 
 ## PIANI/ABBONAMENTI
 
-* [Costi](piani-abbonamenti/costi.md)
+* [Piani e abbonamenti](piani-abbonamenti/piani-e-abbonamenti.md)
 
 ## FAQ / DOMANDE FREQUENTI
 
