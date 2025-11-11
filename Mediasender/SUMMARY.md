@@ -7,7 +7,6 @@
 * [Riguardo Mediasender](introduzione/riguardo-mediasender.md)
 * [Perchè scegliere Mediasender?](introduzione/perche-scegliere-mediasender.md)
 * [Requisiti di sistema](introduzione/requisiti-di-sistema.md)
-* [Cos'è una Radio Date?](introduzione/cose-una-radio-date.md)
 
 ## APP MOBILE
 
@@ -17,6 +16,11 @@
 
 * [Piani e abbonamenti](piani-abbonamenti/costi.md)
 
+## CONTATTI
+
+* [Contatti](contatti/contatti.md)
+
 ## FAQ / DOMANDE FREQUENTI
 
 * [FAQ](faq-domande-frequenti/faq.md)
+* [Cos'è una Radio Date?](faq-domande-frequenti/cose-una-radio-date.md)
