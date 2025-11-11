@@ -1,7 +1,5 @@
 # Cos'è una Radio Date?
 
-## Cos'è una "Radio Date"? <a href="#cos-una-radio-date" id="cos-una-radio-date"></a>
-
 Nel settore musicale, il termine **"Radio Date"** indica la data ufficiale a partire dalla quale le stazioni radiofoniche sono autorizzate a trasmettere un nuovo brano musicale. Funziona come un "via libera" concordato tra le etichette discografiche e le emittenti, segnando l'inizio formale della promozione di una canzone nell'airplay radiofonico e televisivo.​
 
 ***
