@@ -1,38 +1,41 @@
 # Contatti
 
-Di seguito sono riportate tutte le informazioni necessarie per ricevere supporto tecnico, richiedere informazioni commerciali o mettersi in contatto con il team di Mediasender e Xdevel.​
-
-***
-
-### Contatti Principali <a href="#contatti-principali" id="contatti-principali"></a>
-
-Questa sezione contiene i riferimenti essenziali per le diverse tipologie di richieste.​
-
 ### Assistenza Tecnica e Supporto
 
-Per qualsiasi problema tecnico o domanda sull'utilizzo della piattaforma Mediasender, è possibile contattare l'helpdesk dedicato.​
+Per problemi tecnici o domande sull’utilizzo della piattaforma Mediasender è possibile contattare il supporto tecnico dedicato tramite email.
 
-* **Email Helpdesk**: [helpdesk@xdevel.com](mailto:helpdesk@xdevel.com)​​
+* Email Helpdesk: [helpdesk@xdevel.com](mailto:helpdesk@xdevel.com)
+
+**Riepilogo:**\
+Helpdesk disponibile via email per supporto tecnico e assistenza operativa.
+
+**Parole chiave:** assistenza tecnica, supporto tecnico, helpdesk, email supporto
+
+***
 
 ### Informazioni Commerciali e Generali
 
-Per domande relative ai piani, richieste di preventivi o altre informazioni commerciali su Mediasender, i contatti di riferimento sono quelli di Xdevel.​
+Per informazioni su piani, preventivi o questioni commerciali, il riferimento è il team commerciale di Xdevel.
 
-* **Email Informazioni**: [info@earone.com](mailto:info@xdevel.com)​
-* **Modulo di Contatto**: [https://earone.com/contacts](https://earone.com/contacts)
+* Email: [info@xdevel.com](mailto:info@xdevel.com)
+* Modulo di contatto: [https://earone.com/contacts](https://earone.com/contacts)
+
+**Riepilogo:**\
+Contatti dedicati per questioni commerciali e richieste di informazioni generali.
+
+**Parole chiave:** informazioni commerciali, preventivi, email commerciale, modulo contatto
 
 ***
 
-### Sede e Riferimenti Aziendali <a href="#sede-e-riferimenti-aziendali" id="sede-e-riferimenti-aziendali"></a>
+### Sede e Riferimenti Aziendali
 
-**Xdevel S.r.l.** è la società che sviluppa e gestisce la piattaforma Mediasender.​
+Xdevel S.r.l. è la società sviluppatrice e gestore di Mediasender con sede legale e operativa in Sicilia.
 
-* **Indirizzo:**\
-  Xdevel S.r.l.​\
-  Via Sparagonà, 1​\
-  98028 Santa Teresa di Riva (ME), Italia​
-* **Telefono:**\
-  [+39 0942 793988](https://www.perplexity.ai/search/https-mediasender-it-it-piani-OtKGtq7NRQ6KRdnw1CAh9g)​\
-  &#xNAN;_(Disponibile dal lunedì al venerdì, dalle ore 09:00 alle 13:00 e dalle 14:00 alle 18:00)_&#x200B;
-* **Contatti Amministrativi:**\
-  Per questioni legate a pagamenti e fatturazione, è possibile scrivere a: [accounting@xdevel.com](mailto:accounting@xdevel.com)
+* Indirizzo: Via Sparagonà, 1, 98028 Santa Teresa di Riva (ME), Italia
+* Telefono: +39 0942 793988 (lun-ven, 09:00-13:00, 14:00-18:00)
+* Email amministrativa (pagamenti e fatturazione): [accounting@xdevel.com](mailto:accounting@xdevel.com)
+
+**Riepilogo:**\
+Dati aziendali completi per comunicazioni ufficiali e amministrative.
+
+**Parole chiave:** sede Xdevel, indirizzo, telefono, pagamenti, fatturazione, email amministrativa
